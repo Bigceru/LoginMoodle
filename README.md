@@ -4,7 +4,7 @@
 + geckodriver (per il browser Firefox), se il file geckodriver già presente non funziona, seguite la guida a fondo pagina.
 
 ## How to use
-Per avviare il programma basta andare nella cartella dove sono locati i sorgenti i python ed eseguire il comando:
+Per avviare il programma basta andare nella cartella dove sono locati i sorgenti in python ed eseguire il comando:
 
 ```bash
 python loginMoodle.py
@@ -17,7 +17,7 @@ In caso di digitazione sbagliata della password Moodle, basterà eliminare il fi
 ### Geckodriver
 Geckodriver è un driver che serve a selenium per comunicare con Firefox (nel nostro caso), quindi come tutti i driver deve prima essere installato.
 
-Per procedere con l'installazione basta andare al segiuente link [Geckodriver](https://github.com/mozilla/geckodriver/releases) e scaricare dalle release il driver corretto per il propria SO e la propria architettura.
+Per procedere con l'installazione basta andare al seguente link [Geckodriver](https://github.com/mozilla/geckodriver/releases) e scaricare dalle release il driver corretto per il propria SO e la propria architettura.
 
 (Da qui in poi la guidà sarà per linux) 
 Una volta scaricato, estraiamo il driver:
